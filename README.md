@@ -1,4 +1,4 @@
-Android-MyStream
+Android-MyStreamViewer
 ================
 
 Android application for watching streaming.
